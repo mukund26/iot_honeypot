@@ -1,4 +1,4 @@
-# iot_honeypot
+# IoT_Honeypot
 Honeypot for iot devices
 
 Medium interaction honeypot for IOT Devices.
