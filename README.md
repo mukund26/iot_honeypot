@@ -1,5 +1,5 @@
 # IoT_Honeypot
-Honeypot for iot devices
+Honeypot for IoT Devices
 
 Medium interaction honeypot for IOT Devices.
 An IOT honeypot and sandbox, which attracts and analyzes Telnet-based attacks against various IOT devices running on different
